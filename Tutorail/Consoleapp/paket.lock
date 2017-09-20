@@ -1,0 +1,8 @@
+RESTRICTION: == net461
+NUGET
+  remote: https://www.nuget.org/api/v2
+    Antlr (3.5.0.2)
+    Newtonsoft.Json (10.0.3)
+    WebGrease (1.6)
+      Antlr (>= 3.4.1.9004)
+      Newtonsoft.Json (>= 5.0.4)
