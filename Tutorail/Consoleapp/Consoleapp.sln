@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consoleapp", "Consoleapp\Consoleapp.csproj", "{BC72C56A-D1C2-45AD-85A6-7AB5ECA0A39D}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MathsAndScience", "MathsAndScience\MathsAndScience.fsproj", "{30006CCE-8B80-4944-A24A-42B82213A0F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC72C56A-D1C2-45AD-85A6-7AB5ECA0A39D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC72C56A-D1C2-45AD-85A6-7AB5ECA0A39D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC72C56A-D1C2-45AD-85A6-7AB5ECA0A39D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC72C56A-D1C2-45AD-85A6-7AB5ECA0A39D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30006CCE-8B80-4944-A24A-42B82213A0F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30006CCE-8B80-4944-A24A-42B82213A0F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30006CCE-8B80-4944-A24A-42B82213A0F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30006CCE-8B80-4944-A24A-42B82213A0F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEE08645-3EE3-46C9-BFDD-F8143B8D39A7}
+	EndGlobalSection
+EndGlobal
